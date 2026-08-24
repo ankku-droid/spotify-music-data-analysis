@@ -281,9 +281,9 @@ https://github.com/ankku-droid/spotify-music-data-analysis/blob/main/Spotify_Mus
 
 # 📷 Dashboard Preview
 
-The complete dashboard preview is available in:
+The complete dashboard preview is available here:
 
-📄 **https://github.com/ankku-droid/spotify-music-data-analysis/blob/main/Spotify_Music_Dashboard.pdf**
+📄 [View Spotify Music Dashboard (PDF)](./Spotify_Music_Dashboard.pdf)
 
 ---
 
