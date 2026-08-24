@@ -254,7 +254,7 @@ spotify-top-50-world.csv
 5. Run the queries available in:
 
 ```text
-spotify_music_analysis.sql
+https://github.com/ankku-droid/spotify-music-data-analysis/blob/main/spotify_music_analysis.sql.sql
 ```
 
 ---
@@ -283,7 +283,7 @@ https://github.com/ankku-droid/spotify-music-data-analysis/blob/main/Spotify_Mus
 
 The complete dashboard preview is available in:
 
-📄 **Spotify_Music_Dashboard.pdf**
+📄 **https://github.com/ankku-droid/spotify-music-data-analysis/blob/main/Spotify_Music_Dashboard.pdf**
 
 ---
 
