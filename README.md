@@ -287,7 +287,7 @@ The complete dashboard preview is available here:
 
 ---
 
-# project_documation 
+# Project Documation 
 
 The project documation is available here:
 
