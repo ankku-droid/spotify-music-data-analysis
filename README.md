@@ -287,6 +287,14 @@ The complete dashboard preview is available here:
 
 ---
 
+# project_documation 
+
+The project documation is available here:
+
+📄 [View Project Documentation](./Spotify_Project_Documentation.pdf)
+
+---
+
 # 🎯 Skills Demonstrated
 
 This project demonstrates the following data analytics skills:
