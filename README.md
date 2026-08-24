@@ -264,7 +264,7 @@ spotify_music_analysis.sql
 1. Download the file:
 
 ```text
-Spotify_Music_Dashboard.pbix
+https://github.com/ankku-droid/spotify-music-data-analysis/blob/main/Spotify_Music_Dashboard.pbix.pbix
 ```
 
 2. Open it using **Power BI Desktop**.
